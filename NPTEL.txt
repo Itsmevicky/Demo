@@ -1,0 +1,18 @@
+    Name of course                  Course Start Date    No of weeks    Date of Exam         
+1. Python for Data Science         27th January 2020       4 weeks     29th March 2020
+2. Data Sceince for Engineer       27th January 2020       8 weeks     29th March 2020
+3. Introduction to programming
+   Through C++                     27th January 2020       12 weeks    26th April 2020
+4. Software Testing                27th January 2020       4 Weeks     29th March 2020
+5. Computer Networks and Internet
+   protocol                       27th January 2020       12 weeks    25th April 2020
+6. Cloud Computing                 24th February 2020      8 weeks     26th April 2020
+7. Design and Analysis of          
+   algorithms                     27th January 2020       8 weeks     29th March 2020
+8. DataBase Management System      27th January 2020       8 weeks     29th March 2020
+9. Blockchain technology and
+   application                    24th February 2020      8 weeks     25th April 2020
+10. Introduction to Internet of
+    Things                         27th January 2020       12 weeks    25th April 2020
+11. Problem Solving through
+    programming in C               27th January 2020       12 Weeks    25th April 2020
